@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "348418077008",
+    "project_id": "xline-bc916",
+    "storage_bucket": "xline-bc916.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:348418077008:android:8ac07b55c7b0c298defc55",
+        "android_client_info": {
+          "package_name": "com.sevensoft.x_line"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "348418077008-k26btaq4k529obmjsv11ag5bg3k8g8pt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlBmbF69vvMkQ4_xmZj6c4sMSTmuaizHo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "348418077008-k26btaq4k529obmjsv11ag5bg3k8g8pt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
